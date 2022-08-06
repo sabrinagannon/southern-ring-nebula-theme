@@ -1,0 +1,23 @@
+{
+  "name": "Southern Ring Nebula Light",
+  "background": "#fafafa",
+  "foreground": "#322829",
+  "cursorColor": "#644a54",
+  "selectionBackground": "#294066",
+  "black": "#322829",
+  "brightBlack": "#544b4c",
+  "red": "#842106",
+  "brightRed": "#9C4C37",
+  "green": "#4a5742",
+  "brightGreen": "#6D7867",
+  "yellow": "#ad5f21",
+  "brightYellow": "#BC7E4C",
+  "blue": "#294066",
+  "brightBlue": "#536584",
+  "purple": "#644a54",
+  "brightPurple": "#826D75",
+  "cyan": "#1b5683",
+  "brightCyan": "#48779B",
+  "white": "#b7b4b4",
+  "brightWhite": "#d9d7d7"
+}

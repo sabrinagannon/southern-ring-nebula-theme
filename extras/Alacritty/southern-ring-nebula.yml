@@ -1,0 +1,91 @@
+
+# Alacritty Southern Ring Nebula Theme
+
+schemes:
+  southern-ring-nebula-dark: &dark
+    primary:
+      background: '#110506'
+      foreground: '#c2c1c8'
+
+    cursor:
+      text: '#110506'
+      cursor: '#af929d'
+
+    selection:
+      text: '#110506'
+      background: '#8aa7d2'
+
+    normal:
+      black: '#4c4447'
+      red: '#ed844a'
+      green: '#8ba083'
+      yellow: '#ffea9f'
+      blue: '#8aa7d2'
+      magenta: '#ce9add'
+      cyan: '#a3ccec'
+      white: '#c2c1c8'
+
+    bright:
+      black: '#6a6367'
+      red: '#EA966A'
+      green: '#9CAD97'
+      yellow: '#F9E8AE'
+      blue: '#9BB2D6'
+      magenta: '#D2A8DF'
+      cyan: '#AFD0EB'
+      white: '#e0e0e8'
+
+    dim:
+      black: '#2f2426'
+      red: '#C16B3C'
+      green: '#73816A'
+      yellow: '#CFBC80'
+      blue: '#7287A9'
+      magenta: '#A87CB2'
+      cyan: '#86A4BE'
+      white: '#a5a1a7'
+
+
+  southern-ring-nebula-light: &light
+    primary:
+      background: '#fafafa'
+      foreground: '#322829'
+
+    cursor:
+      text: '#fafafa'
+      cursor: '#644a54'
+
+    selection:
+      text: '#fafafa'
+      background: '#294066'
+
+    normal:
+      black: '#322829'
+      red: '#842106'
+      green: '#4a5742'
+      yellow: '#ad5f21'
+      blue: '#294066'
+      magenta: '#7c3091'
+      cyan: '#1b5683'
+      white: '#b7b4b4'
+
+    bright:
+      black: '#544b4c'
+      red: '#9C4C37'
+      green: '#6D7867'
+      yellow: '#BC7E4C'
+      blue: '#536584'
+      magenta: '#9558A6'
+      cyan: '#48779B'
+      white: '#d9d7d7'
+
+    dim:
+      black: '#110506'
+      red: '#6D1B06'
+      green: '#3F4736'
+      yellow: '#8E4D1C'
+      blue: '#243453'
+      magenta: '#672775'
+      cyan: '#19466A'
+      white: '#969191'
+

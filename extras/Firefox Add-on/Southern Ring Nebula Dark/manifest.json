@@ -1,0 +1,154 @@
+{
+  "version": "1.0.2",
+  "manifest_version": 2,
+  "name": "Southern Ring Nebula Dark",
+  "theme": {
+    "colors": {
+      "bookmark_text": [
+        224,
+        224,
+        232
+      ],
+      "frame": [
+        17,
+        5,
+        6
+      ],
+      "frame_inactive": [
+        47,
+        36,
+        38
+      ],
+      "icons_attention": [
+        224,
+        224,
+        232
+      ],
+      "icons": [
+        224,
+        224,
+        232
+      ],
+      "ntp_background": [
+        47,
+        36,
+        38
+      ],
+      "ntp_text": [
+        224,
+        224,
+        232
+      ],
+      "popup_highlight_text": [
+        76,
+        68,
+        71
+      ],
+      "popup_highlight": [
+        194,
+        193,
+        200
+      ],
+      "toolbar_field_highlight_text": [
+        76,
+        68,
+        71
+      ],
+      "popup_border": [
+        47,
+        36,
+        38
+      ],
+      "popup_text": [
+        224,
+        224,
+        232
+      ],
+      "popup": [
+        47,
+        36,
+        38
+      ],
+      "sidebar_border": [
+        47,
+        36,
+        38
+      ],
+      "sidebar_highlight_text": [
+        194,
+        193,
+        200
+      ],
+      "sidebar_highlight": [
+        76,
+        68,
+        71
+      ],
+      "sidebar_text": [
+        194,
+        193,
+        200
+      ],
+      "sidebar": [
+        47,
+        36,
+        38
+      ],
+      "tab_background_text": [
+        224,
+        224,
+        232
+      ],
+      "tab_loading": [
+        224,
+        224,
+        232
+      ],
+      "tab_text": [
+        224,
+        224,
+        232
+      ],
+      "toolbar_bottom_separator": [
+        47,
+        36,
+        38
+      ],
+      "toolbar_field_border": [
+        47,
+        36,
+        38
+      ],
+      "toolbar_field_separator": [
+        47,
+        36,
+        38
+      ],
+      "toolbar_field_text_focus": [
+        224,
+        224,
+        232
+      ],
+      "toolbar_field_text": [
+        224,
+        224,
+        232
+      ],
+      "toolbar_field": [
+        47,
+        36,
+        38
+      ],
+      "toolbar_field_border_focus": [
+        76,
+        68,
+        71
+      ],
+      "toolbar": [
+        47,
+        36,
+        38
+      ]
+    }
+  }
+}

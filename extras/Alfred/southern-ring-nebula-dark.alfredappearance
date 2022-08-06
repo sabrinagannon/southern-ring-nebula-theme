@@ -1,0 +1,61 @@
+{
+  "alfredtheme": {
+    "result": {
+      "textSpacing": 6,
+      "subtext": {
+        "size": 12,
+        "colorSelected": "#2f2426FF",
+        "font": "System Light",
+        "color": "#878287FF"
+      },
+      "shortcut": {
+        "size": 16,
+        "colorSelected": "#2f2426FF",
+        "font": "System",
+        "color": "#c2c1c8FF"
+      },
+      "backgroundSelected": "#a3ccecFF",
+      "text": {
+        "size": 18,
+        "colorSelected": "#110506FF",
+        "font": "System Light",
+        "color": "#e0e0e8FF"
+      },
+      "iconPaddingHorizontal": 6,
+      "paddingVertical": 6,
+      "iconSize": 36
+    },
+    "search": {
+      "paddingVertical": 8,
+      "background": "#4c44477F",
+      "spacing": 10,
+      "text": {
+        "size": 22,
+        "colorSelected": "#8aa7d2FF",
+        "font": "System",
+        "color": "#e0e0e8FF"
+      },
+      "backgroundSelected": "#ce9addFF"
+    },
+    "window": {
+      "color": "#110506CC",
+      "paddingHorizontal": 10,
+      "width": 560,
+      "borderPadding": 0,
+      "borderColor": "#11050600",
+      "blur": 15,
+      "roundness": 2,
+      "paddingVertical": 10
+    },
+    "credit": "Sabrina Gannon",
+    "separator": {
+      "color": "#11050600",
+      "thickness": 0
+    },
+    "scrollbar": {
+      "color": "#ffea9fFF",
+      "thickness": 2
+    },
+    "name": "Southern Ring Nebula Dark"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "theme-southern-ring-nebula-vscode",
+  "displayName": "Southern Ring Nebula Theme",
+  "description": "Southern Ring Nebula Theme",
+  "version": "2.4.0",
+  "publisher": "Sabrina Gannon",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes",
+    "Space"
+  ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Southern Ring Nebula Dark",
+        "uiTheme": "vs-dark",
+        "path": "themes/southern-ring-nebula-dark-color-theme.json"
+      },
+      {
+        "label": "Southern Ring Nebula Light",
+        "uiTheme": "vs",
+        "path": "themes/southern-ring-nebula-light-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Southern Ring Nebula Dark",
+  "background": "#110506",
+  "foreground": "#c2c1c8",
+  "cursorColor": "#af929d",
+  "selectionBackground": "#8aa7d2",
+  "black": "#4c4447",
+  "brightBlack": "#6a6367",
+  "red": "#ed844a",
+  "brightRed": "#EA966A",
+  "green": "#8ba083",
+  "brightGreen": "#9CAD97",
+  "yellow": "#ffea9f",
+  "brightYellow": "#F9E8AE",
+  "blue": "#8aa7d2",
+  "brightBlue": "#9BB2D6",
+  "purple": "#af929d",
+  "brightPurple": "#B9A2AC",
+  "cyan": "#a3ccec",
+  "brightCyan": "#AFD0EB",
+  "white": "#c2c1c8",
+  "brightWhite": "#e0e0e8"
+}
