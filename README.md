@@ -1,4 +1,4 @@
-# Southern Ring Nebula Theme 🌟 🔭 
+# Southern Ring Nebula Theme 🌟 🔭
 
 **Note I have not tested all the different apps that this theme was generated with, it's very possible there are some bugs**
 
@@ -10,7 +10,21 @@ Some of the colors were manipulated from the original image to increase their co
 
 ## Why did I chose the southern ring nebula image to make a theme?
 
-I've had a terrible, beautiful past two years on Earth, and while all of the images from the telescope so far captured that beauty, the image of a star undergoing a multi-millennia long death captured the duality of how I feel about the last two years (and counting). Someday all that dust from that star is going to end up being a part of something else entirely, and maybe it will even be seen by another telescope. I like to think so at least. 
+I've had a terrible, beautiful past two years on Earth, and while all of the images from the telescope so far captured that beauty, the image of a star undergoing a multi-millennia long death captured the duality of how I feel about the last two years (and counting). Someday all that dust from that star is going to end up being a part of something else entirely, and maybe it will even be seen by another telescope. I like to think so at least.
+
+## Previews
+
+### Dark Theme
+
+![](assets/dark-code.png)
+
+![](assets/dark-terminal.png)
+
+### Light Theme
+
+![](assets/light-code.png)
+
+![](assets/light-terminal.png)
 
 ### Credits
 
